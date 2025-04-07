@@ -1,4 +1,4 @@
-# 🏡 Plataforma Web Residencial Los Robles
+# 🏡 Plataforma Web Residencial Los Robles Sprints
 
 Este proyecto es una plataforma en desarrollo para la administración y gestión de la colonia Residencial Los Robles. Utiliza la metodología SCRUM, está desarrollada en React y organizada por sprints.
 
